@@ -14,19 +14,11 @@ k = 1
 y = int(input("enter number : "))
 
 print("|----------------------|")
-print("|_output___|")
+print("|_______output_________|")
 while k <= 10:
        print("|",y ,"×", k ,"=",y*k,"|")
        k += 1
-y = y
-x = len(str(y))
-s = x*"------"
-h = x/2
-g = int(h)
-j = g*"--"
 
-
-print("|",s,"|")
 print("|",j,"Finished",j,"|")
 
 #_____Kcyb3r__________________
