@@ -19,7 +19,7 @@ while k <= 10:
        print("|",y ,"×", k ,"=",y*k,"|")
        k += 1
 
-print("|",j,"Finished",j,"|")
+print("|     Finished     |")
 
 #_____Kcyb3r__________________
 # ----------end------------
