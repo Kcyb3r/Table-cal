@@ -1,13 +1,33 @@
+#bin/usr/Doc/Table-cal/table.py
+#-----usage------#
+#Table-calculator
+#cd Table-cal
+#python table.py
+
 print("|-----------------------|")
 print("|--TABLES-CALCULATOR ---|")
-print("|---------------Kcyb3r--|\n")
+print("|-----------------------|")
+print("                ~author-by")
+print("                    Kcyb3r_\n")
 
-x = 1
-
+k = 1
 y = int(input("enter number : "))
 
-while x <= 10:
-    print(y*x)
-    x += 1
+print("|----------------------|")
+print("|_output___|")
+while k <= 10:
+       print("|",y ,"×", k ,"=",y*k,"|")
+       k += 1
+y = y
+x = len(str(y))
+s = x*"------"
+h = x/2
+g = int(h)
+j = g*"--"
 
-print("|---Finished---|")
+
+print("|",s,"|")
+print("|",j,"Finished",j,"|")
+
+#_____Kcyb3r__________________
+# ----------end------------
