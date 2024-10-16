@@ -1,6 +1,6 @@
 This is a Tables calculator machine..
 
-For whose didn't learn tables ever
+For those who didn't learn tables ever
 
 - uses
 
