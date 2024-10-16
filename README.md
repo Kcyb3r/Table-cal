@@ -2,6 +2,6 @@ This is a Tables calculator machine..
 
 For whose didn't learn tables ever
 
-- usages
+- uses
 
 python3 table.py
